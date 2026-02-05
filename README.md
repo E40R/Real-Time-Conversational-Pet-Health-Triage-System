@@ -3,7 +3,7 @@
 
 
 Submited By: Muvvala Krishna Kiriti <br>
-PawsConnect Assignment <br>
+Paws Pal Connect Assignment <br>
 
 
 Project Structure (files)
