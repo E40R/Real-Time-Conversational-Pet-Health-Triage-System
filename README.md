@@ -23,5 +23,5 @@ Project Structure (files)
 To launch the web interface, clone the official LiveKit starter and start the development server:
 
 git clone https://github.com/livekit-examples/agent-starter-react.git frontend
-cd frontend && npm install
-npm run dev
+<br>cd frontend && npm install
+<br>npm run dev
