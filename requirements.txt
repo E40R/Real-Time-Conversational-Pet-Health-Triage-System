@@ -1,0 +1,7 @@
+livekit-agents>=0.7.0
+livekit-plugins-google
+livekit-plugins-deepgram
+livekit-plugins-silero
+livekit-plugins-cartesia
+python-dotenv
+pydantic
