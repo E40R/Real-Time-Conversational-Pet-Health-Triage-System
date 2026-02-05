@@ -15,6 +15,9 @@ PawsConnect Assignment
 
 <li> pet_health_log.json: The "Memory." A persistent local database where the agent saves every triage record. This proves the system maintains internal state and auditability of all health assessments. The file will be created as conversation starts.</li> 
 
+<br>
+<br>
+
 💻 Frontend Setup
 To launch the web interface, clone the official LiveKit starter and start the development server:
 
