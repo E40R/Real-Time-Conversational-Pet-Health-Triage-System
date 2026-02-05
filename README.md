@@ -6,7 +6,7 @@ Submited By: Muvvala Krishna Kiriti <br>
 PawsConnect Assignment <br>
 
 
-📂 Project Structure (files)
+Project Structure (files)
 <li>agent.py: The main orchestrator. It connects to the LiveKit room, manages the "Voice Pipeline" (STT → LLM → TTS), and handles the conversation flow. It initializes the AI agent and ties together the safety checks and data models.</li>
 
 <li>triage_model.py: The "Brain" of the system. It defines the structured data schema (using Pydantic) that the AI must use. It forces the LLM to categorize symptoms, assign a Risk Level (Low/Medium/High), and generate a structured summary instead of just chatting randomly.</li> 
@@ -18,7 +18,8 @@ PawsConnect Assignment <br>
 <br>
 <br>
 
-💻 Frontend Setup
+
+ Frontend Setup
 To launch the web interface, clone the official LiveKit starter and start the development server:
 
 git clone https://github.com/livekit-examples/agent-starter-react.git frontend
