@@ -4,7 +4,7 @@
 
 Submited By: Muvvala Krishna Kiriti <br>
 Paws Pal Connect Assignment <br>
-
+Used: LiveKit
 
 Project Structure (files)
 <li>agent.py: The main orchestrator. It connects to the LiveKit room, manages the "Voice Pipeline" (STT → LLM → TTS), and handles the conversation flow. It initializes the AI agent and ties together the safety checks and data models.</li>
